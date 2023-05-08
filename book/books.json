@@ -1,8 +1,8 @@
 {
-    "adState": true,
-    "rootLink" : "https://bitl.bz/cbYJ5y",
-    "adPrecentage" : 4,
-    "leverage" : 40,
+    "adState": false,
+    "rootLink": "https://bitl.bz/cbYJ5y",
+    "adPrecentage": 5,
+    "leverage": 40,
     "data": [
         {
             "price": "13,500원",
